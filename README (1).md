@@ -5,11 +5,11 @@ plataforma para pesquisar vagas de emprego, filtrar os resultados e guardar as f
 feito com javascript puro, HTML5 e CSS3.
 
 o que dá para fazer
-- buscar por cargo, empresa, cidade ou tecnologia
-- filtrar por modalidade (remoto ou presencial), tipo de contrato e tecnologia
-- ordenar por data, título ou empresa
-- ver os detalhes da vaga e ir para o link de candidatura
-- favoritar vagas e consultar todas elas na aba Favoritas
+ buscar por cargo, empresa, cidade ou tecnologia
+ filtrar por modalidade (remoto ou presencial), tipo de contrato e tecnologia
+ ordenar por data, título ou empresa
+ ver os detalhes da vaga e ir para o link de candidatura
+ favoritar vagas e consultar todas elas na aba Favoritas
 as favoritas ficam salvas no navegador (localstorage), sem login nem banco de dados.
 
 API
